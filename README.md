@@ -1,14 +1,10 @@
-# React Express Starter Pack
+# React, Express, MongoDB, Reudx, Rxjs, Firebase
 
 > Create full stack apps with React and Express. Run your client and server with a single command. 
 
-### Redux Version
-This version does not include Redux
-[Click Here For Redux Version](https://github.com/bradtraversy/react_redux_express_starter) 
 
-## Quick Start
 
-``` bash
+
 # Install dependencies for server
 npm install
 
@@ -31,8 +27,8 @@ npm run client
 
 ### Author
 
-Brad Traversy
-[Traversy Media](http://www.traversymedia.com)
+Saqib
+
 
 ### Version
 
